@@ -1,8 +1,12 @@
 {
+  "name": "ryoz",
+  "description": "Personal self-hosted CasaOS cloud for software development projects",
+  "repo": "https://github.com/ryosgie/register",
   "owner": {
-    "username": "ryosgie"
+    "username": "ryosgie",
+    "email": "ryosgie@gmail.com"
   },
-  "records": {
+  "record": {
     "CNAME": "1e767c11-487c-44fe-911a-d213e07c4a39.cfargotunnel.com"
   },
   "proxied": true
